@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+       background-color:cadetblue
+}
+
+.box{
+    width: 220px;
+    height: 220px;
+    position: absolute;
+    top: 38%;
+    left: 44%;
+    display: flex;
+   
+    
+}
+
+.box1{
+    width: 58%;
+    border-bottom-left-radius: 3%;
+    border-top-left-radius: 3%;
+    background-color: white;   
+}
+
+.content{
+    margin: 63px 22px;
+}
+#date{
+    font-size: 40px;
+    margin: 5px 5px 5px 20px;
+}
+#day{
+    font-size: 20px;
+    margin: -8px 10px;
+}
+
+.content2{
+    margin: 77px 0px 0px -15px;
+
+    
+}
+#month{
+  
+    margin: 5px 5px 5px 20px;
+}
+#year{
+    
+    margin: -7px 35px;
+}
+.box2{
+    width: 42%;
+    background-color: green;
+    font-size: 20px;
+}
+
